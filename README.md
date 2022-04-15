@@ -22,7 +22,8 @@ Repositório criado para o desafio de projeto.
 **Listar configurações**
 >git config --list
 
-###Repositório Local
+### Repositório Local
+
 **Criar novo repositório**
 >git init
 
@@ -43,11 +44,11 @@ Repositório criado para o desafio de projeto.
 > 
 >git add *
 
-
 **Adicionar um arquivo que esteja listado no .gitignore (geral ou do repositório)**
 >git add -f arquivo_no_gitignore.txt
 
-###Comitar arquivo/diretório
+
+### Comitar arquivo/diretório
 
 **Comitar um arquivo**
 >git commit arquivo.txt
@@ -59,7 +60,8 @@ Repositório criado para o desafio de projeto.
 >git commit meuarquivo.txt -m "Mensagem de commit"
 
 
-###Remover arquivo/diretório
+### Remover arquivo/diretório
+
 **Remover arquivo**
 >git rm meu_arquivo.txt
 
@@ -75,7 +77,8 @@ Repositório criado para o desafio de projeto.
 **Enviar arquivo para repositório remoto**
 >git push origin main
 
-###Visualizar histórico
+### Visualizar histórico
+
 **Exibir histórico**
 >git log
 
