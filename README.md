@@ -45,10 +45,10 @@ Repositório criado para o desafio de projeto.
 
 
 **Adicionar um arquivo que esteja listado no .gitignore (geral ou do repositório)**
-
 >git add -f arquivo_no_gitignore.txt
 
 ###Comitar arquivo/diretório
+
 **Comitar um arquivo**
 >git commit arquivo.txt
 
